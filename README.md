@@ -1,6 +1,6 @@
 <h2>🙏🏻 Hi there, I'm Ismail Ardhian! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/ismailardhian/ismailardhian/blob/master/images/cat_coding.gif" width="230">
-<p><em>Student at <a href="http://home.amikom.ac.id">Universitas Amikom Yogyakarta</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.facebook.com/ants3c.gov"><img height="30" src="https://github.com/ismailardhian/ismailardhian/blob/master/images/facebook.png?raw=true"></a>
